@@ -7,4 +7,4 @@ def max(a, b, c):
         print("The max number is :", c)
 
 
-print(max(2, 3, 4))
+(max(2, 3, 4))
